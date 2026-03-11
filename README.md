@@ -1,73 +1,100 @@
 <div align="center">
 
-  <h1>Hi there, I'm Robert Savitskas! 👋</h1>
-  <h3>Machine Learning Engineer | Applied Mathematics Student</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Junior+Machine+Learning+Engineer;Backend+Development+Background;Algorithmic+Problem+Solver;Computer+Science+Student&font=Fira+Code&center=true&width=1000&height=50&color=70a5fd&vCenter=true&pause=1000&size=24&duration=4000&repeat=true" alt="Typing SVG" />
+  </a>
 
-  <p>
-    I am a student at <b>Moscow Aviation Institute (MAI)</b> majoring in Applied Mathematics and Computer Science (2024–2028).
-    <br>
-    Formerly a Frontend Developer, I have transitioned to <b>Machine Learning</b> to apply algorithmic skills to real-world problems.
-    I focus on classical ML, Deep Learning, and building scalable data solutions.
+  <p align="center">
+     👋 <b>Hi, I'm Robert Savitskas</b><br>
+     Junior ML Engineer | 2nd-year University Student | Algorithms & Math Enthusiast
+  </p>
+  
+  <p align="center">
+    With a solid foundation in Backend Development, I have successfully transitioned into <b>Machine Learning Engineering</b>. <br>
+    My focus is on gradient boosting, feature engineering, complex algorithms, and building robust ML infrastructure.
   </p>
 
-  <br>
-
-  <a href="mailto:savrobartrobsav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/amemeansrain">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-   <a href="https://github.com/amemeansrain">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
 </div>
-
-<br>
-<hr>
-
-### 🛠️ Tech Stack & Skills
-
-Based on my current focus and experience:
-
-#### 🧠 Machine Learning & Data Science
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" alt="CatBoost" />
-</div>
-
-#### 🌐 Web Development & Tools (Background)
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-
-<br>
-<hr>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amemeansrain&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Robert's GitHub Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amemeansrain&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
-<br>
-
-### 🔭 Current Focus
-* 🎓 Deepening knowledge in **Linear Models, Decision Trees, and Ensembles**.
-* 🏆 Solving practical problems on **Kaggle** & Stepik.
-* 🚀 Developing scalable ML architectures (leveraging my background in modular frontend systems).
 
 ---
+
+### 🛠 Tech Stack & Skills
+
 <div align="center">
-  <i>"Analytical thinking for code optimization."</i>
+
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Prolog-F29D50?style=for-the-badge&logo=prolog&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+<br>
+
+### 📊 GitHub & Algorithmic Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=amemeansrain&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amemeansrain&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Makefile,CMake,HTML,Roff,Rich%20Text%20Format&card_width=450" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://streak-stats.demolab.com?user=amemeansrain&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amemeansrain/amemeansrain/main/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amemeansrain/amemeansrain/main/assets/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/amemeansrain/amemeansrain/main/assets/github-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </div>
