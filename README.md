@@ -31,14 +31,11 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Prolog-F29D50?style=for-the-badge&logo=prolog&logoColor=white" />
 
 <br>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
@@ -70,20 +67,6 @@
 </div>
 
 <br>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amemeansrain/amemeansrain/main/assets/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amemeansrain/amemeansrain/main/assets/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/amemeansrain/amemeansrain/main/assets/github-snake.svg">
-  </picture>
-</div>
-
-<br>
-
----
 
 ### 📫 Connect with me
 
