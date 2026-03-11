@@ -63,8 +63,8 @@
   
   <br><br>
 
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/amemeansrain/">
+    <img src="https://leetcard.jacoblin.cool/amemeansrain?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 
 </div>
@@ -88,13 +88,13 @@
 ### 📫 Connect with me
 
 <div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/amemeansrain" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:savrobartrobsavL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/amemeansrain/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
